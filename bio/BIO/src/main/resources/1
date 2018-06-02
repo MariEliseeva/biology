@@ -1,0 +1,14 @@
+У Carbonic anhydrase самая первая аминокислота, M, всегда непокрыта. А во втором эксперименте встретился полипептид, покрывающий все остальные, т.е. для этого белка только одна аминокислота всегда непокрыта.
+
+У Phosphatidylethanolamine-binding protein ситуация такая же: первая аминокислота M всегда непокрыта, остальные покрыты в третьем эксперименте одним полипептидом.
+
+У flavin reductase (NADPH) первая аминокислота M также непокрыта, но еще непокрыты все аминокислоты, начиная с какого-то момента:
+MVVKKIALFGATGNTGLTTLAQAVQAGYEVTVLVRDPSRLPSEGPQPAHVVVGDVRQPADVDKTVAGQDAVIVLLG -- (разрыв, после которого непокрытые аминокислоты) --TRNDLSPTTVMSEGAQNIVAAMKAHGVDKVVACTSAFLLWDPSKVPPRLQDVTDDHIRMHKVLQQSGLKYVAVMPPHIGDHPLTGAYTVTLDGRGPSRVISKHDLGHFMLHCLTTDKYDGHTTYPSHVYE
+
+У Chain A, Bovine Cytochrome B(5) есть один непокрытый разрыв, и также аминокислоты, которые вообще не покрыты. 
+
+SKAVKYY -- (до этого места непокрытые аминокислоты) -- TLEEIQKHNNSKSTWLILHYKVY -- (непокрытый разрыв) --DLTKFLEEHPGGEEVLREQAGGDATENFEDVGHSTDARELSKTFIIGELHPDDRSKITKPSES
+
+У superoxide dismutase [Cu-Zn] непокрыта первая аминокислота и аминокислоты во второй половине:
+
+M - (дальше покрыты) - ATKAVCVLKGDGPVQGTIHFEAKGDTVVVTGSITGL - (дальше непокрыты) - TEGDHGFHVHQFGDNTQGCTSAGPHFNPLSKKHGGPKDEERHVGDLGNVTADKNGVAIVDIVDPLISLSGEYSIIGRTMVVHEKPDDLGRGGNEESTKTGNAGSRLACGVIGIAK  
